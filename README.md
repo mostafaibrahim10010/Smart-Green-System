@@ -4,16 +4,14 @@ This project aimed to detect the health of specific crops—tomatoes, lettuce, a
 
 ## Demonstration Some Images from the App
 
-![1](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/dc47067f-cf4e-4b90-b244-4ffe43cbb88e)
+![1](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/5dd3548e-6cd8-4015-954c-7e78d55b0ba9)
 
-![2](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/12d74d55-1e13-4417-8f6f-c931c74cc74f)
+![2](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/374e52cf-1a7f-456e-b678-c8e389e1bd6c)
 
-![3](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/5bb0f7ca-d582-40d3-b24a-6815c7c9721b)
+![3](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/77995719-dced-40ac-b4d1-c19fa093a251)
 
-![4](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/8846b7c3-abaa-41c1-adcc-bb4cdebba244)
+![4](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/882c6795-2078-45eb-b0a0-f2bc77b7139e)
 
-![5](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/368b3eba-6a92-4f48-89ec-854b66bc04df)
+![5](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/d9c57437-be21-47d1-b84c-b2ca049b40ac)
 
-![6](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/dbacc590-1d00-45b7-ba0f-bcb33b02f554)
-
-
+![6](https://github.com/mostafaibrahim10010/Smart-Green-System/assets/103044237/6ea21346-7e25-4160-9ab5-ec9b33808aa4)
