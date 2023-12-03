@@ -1,0 +1,3 @@
+0 Healthy Tomato Leaf
+1 Unhealthy Tomato Leaf
+2 Nothing

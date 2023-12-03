@@ -1,0 +1,3 @@
+0 Healthy Lettuce
+1 Unhealthy Lettuce
+2 Nothing

@@ -1,0 +1,3 @@
+0 Healthy Mint
+1 Unhealthy Mint
+2 Nothing

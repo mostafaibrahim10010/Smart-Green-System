@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779156543984",
+    "project_id": "smart-green-system",
+    "storage_bucket": "smart-green-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779156543984:android:e38aadbccb779dbcfb6535",
+        "android_client_info": {
+          "package_name": "com.aiandiot.sgs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779156543984-bjes4o7fucfl3iqjv4so9m18m041lf7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzzWU4I5rRwN4R1Vh_Pzd88xq8WByU28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779156543984-bjes4o7fucfl3iqjv4so9m18m041lf7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
